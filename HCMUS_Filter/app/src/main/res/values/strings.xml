@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HCMUS_Filter</string>
+    <string name="intro">Ứng dụng Image Filter</string>
+    <string name="website">HCMUS IT K15 Version 1.1</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
